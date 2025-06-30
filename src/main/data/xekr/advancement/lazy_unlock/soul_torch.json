@@ -1,0 +1,68 @@
+{
+  "criteria": {
+    "G": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:soul_fire_base_blocks"
+          }
+        ]
+      }
+    },
+    "U": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:torch"
+          }
+        ]
+      }
+    },
+    "L": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:torch"
+          }
+        ]
+      }
+    },
+    "E": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:torch"
+          }
+        ]
+      }
+    },
+    "X": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:torch"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "G",
+      "U",
+      "L",
+      "E",
+      "X"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "xekr:lazy/soul_torch"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "lightning_rod",
+  "key": {
+    "X": { "item": "minecraft:waxed_copper_block" }
+  },
+  "pattern": ["X", "X", "X"],
+  "result": {
+    "count": 9,
+    "id": "minecraft:lightning_rod"
+  }
+}

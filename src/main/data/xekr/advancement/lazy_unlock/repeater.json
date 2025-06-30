@@ -1,0 +1,46 @@
+{
+  "criteria": {
+    "G": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:redstone"
+          }
+        ]
+      }
+    },
+    "U": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:stick"
+          }
+        ]
+      }
+    },
+    "L": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:stone"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "G",
+      "U",
+      "L"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "xekr:lazy/repeater"
+    ]
+  }
+}

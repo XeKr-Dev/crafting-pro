@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "craft_bamboo_sign": {
+      "trigger": "recipe_crafted",
+      "conditions": {
+        "recipe_id": "xekr:lazy/cherry_boat"
+      }
+    }
+  },
+  "rewards": {
+    "function": "xekr:lazy/cherry_boat",
+    "loot": ["xekr:lazy/cherry_boat_3"]
+  }
+}

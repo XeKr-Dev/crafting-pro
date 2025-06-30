@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "G": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:mangrove_logs"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "G"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "xekr:lazy/mangrove_stairs"
+    ]
+  }
+}

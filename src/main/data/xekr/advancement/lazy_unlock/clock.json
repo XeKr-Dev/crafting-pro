@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "G": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:gold_block"
+          }
+        ]
+      }
+    },
+    "U": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:redstone_block"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "G",
+      "U"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "xekr:lazy/clock"
+    ]
+  }
+}

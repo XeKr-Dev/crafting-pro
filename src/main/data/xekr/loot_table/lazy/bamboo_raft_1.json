@@ -1,0 +1,21 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bamboo_raft"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bamboo_raft"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bamboo_raft"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "craft_bamboo_sign": {
+      "trigger": "recipe_crafted",
+      "conditions": {
+        "recipe_id": "xekr:lazy/mangrove_boat"
+      }
+    }
+  },
+  "rewards": {
+    "function": "xekr:lazy/mangrove_boat",
+    "loot": ["xekr:lazy/mangrove_boat_3"]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "criteria": {
+    "G": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_block"
+          }
+        ]
+      }
+    },
+    "U": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_block"
+          }
+        ]
+      }
+    },
+    "L": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_block"
+          }
+        ]
+      }
+    },
+    "E": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_block"
+          }
+        ]
+      }
+    },
+    "X": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:honeycomb_block"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "G",
+      "U",
+      "L",
+      "E",
+      "X"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "xekr:lazy/waxed_copper_block"
+    ]
+  }
+}

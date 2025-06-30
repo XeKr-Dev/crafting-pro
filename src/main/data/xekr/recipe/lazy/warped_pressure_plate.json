@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_pressure_plate",
+  "key": {
+    "X": {
+      "tag": "minecraft:warped_stems"
+    }
+  },
+  "pattern": ["XX"],
+  "result": {
+    "count": 4,
+    "id": "minecraft:warped_pressure_plate"
+  }
+}

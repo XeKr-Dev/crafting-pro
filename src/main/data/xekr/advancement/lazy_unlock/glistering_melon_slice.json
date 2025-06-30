@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "G": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:gold_ingot"
+          }
+        ]
+      }
+    },
+    "U": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:melon_slice"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "G",
+      "U"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "xekr:lazy/glistering_melon_slice"
+    ]
+  }
+}

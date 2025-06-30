@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "waxed_exposed_copper",
+  "ingredients": [
+    {
+      "item": "minecraft:exposed_copper"
+    },
+    {
+      "item": "minecraft:exposed_copper"
+    },
+    {
+      "item": "minecraft:exposed_copper"
+    },
+    {
+      "item": "minecraft:exposed_copper"
+    },
+    {
+      "item": "minecraft:honeycomb_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:waxed_exposed_copper"
+  }
+}

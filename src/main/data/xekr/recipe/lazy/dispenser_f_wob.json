@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "dispenser",
+  "key": {
+    "A": { "item": "minecraft:dropper" },
+    "X": { "item": "minecraft:string" },
+    "K": { "item": "minecraft:stick" }
+  },
+  "pattern": [" XK", "XAK", " XK"],
+  "result": {
+    "id": "minecraft:dispenser"
+  }
+}

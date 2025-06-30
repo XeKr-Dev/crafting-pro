@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "craft_lantern": {
+      "trigger": "recipe_crafted",
+      "conditions": {
+        "recipe_id": "xekr:lazy/glistering_melon_slice"
+      }
+    }
+  },
+  "rewards": {
+    "function": "xekr:lazy/glistering_melon_slice",
+    "loot": ["xekr:lazy/gold_nugget_1"]
+  }
+}

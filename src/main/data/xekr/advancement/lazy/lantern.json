@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "craft_lantern": {
+      "trigger": "recipe_crafted",
+      "conditions": {
+        "recipe_id": "xekr:lazy/lantern"
+      }
+    },
+    "craft_soul_lantern": {
+      "trigger": "recipe_crafted",
+      "conditions": {
+        "recipe_id": "xekr:lazy/soul_lantern"
+      }
+    }
+  },
+  "requirements": [["craft_lantern", "craft_soul_lantern"]],
+  "rewards": {
+    "function": "xekr:lazy/lantern",
+    "loot": ["xekr:lazy/iron_nugget_1"]
+  }
+}

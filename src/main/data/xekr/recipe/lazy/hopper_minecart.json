@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": { "item": "minecraft:iron_ingot" },
+    "K": { "item": "minecraft:hopper" }
+  },
+  "pattern": ["XKX", "XXX"],
+  "result": {
+    "id": "minecraft:hopper_minecart"
+  }
+}

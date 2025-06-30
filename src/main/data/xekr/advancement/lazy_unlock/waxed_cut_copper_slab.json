@@ -1,0 +1,68 @@
+{
+  "criteria": {
+    "G": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:cut_copper_slab"
+          }
+        ]
+      }
+    },
+    "U": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:cut_copper_slab"
+          }
+        ]
+      }
+    },
+    "L": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:cut_copper_slab"
+          }
+        ]
+      }
+    },
+    "E": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:cut_copper_slab"
+          }
+        ]
+      }
+    },
+    "X": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:honeycomb_block"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "G",
+      "U",
+      "L",
+      "E",
+      "X"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "xekr:lazy/waxed_cut_copper_slab"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_trapdoor",
+  "key": {
+    "X": {
+      "tag": "minecraft:oak_logs"
+    }
+  },
+  "pattern": ["XXX", "XXX"],
+  "result": {
+    "count": 8,
+    "id": "minecraft:oak_trapdoor"
+  }
+}

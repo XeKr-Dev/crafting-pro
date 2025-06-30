@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "wooden_fence",
+  "key": {
+    "X": {
+      "tag": "minecraft:birch_logs"
+    }
+  },
+  "pattern": ["XXX", "X X"],
+  "result": {
+    "count": 12,
+    "id": "minecraft:birch_fence"
+  }
+}

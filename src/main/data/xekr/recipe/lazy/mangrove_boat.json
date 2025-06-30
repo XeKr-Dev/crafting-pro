@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "boat",
+  "key": {
+    "X": {
+      "tag": "minecraft:mangrove_logs"
+    }
+  },
+  "pattern": ["X X", "XXX"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:mangrove_boat"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "X": { "item": "minecraft:iron_block" }
+  },
+  "pattern": ["XX", "XX", "XX"],
+  "result": {
+    "count": 27,
+    "id": "minecraft:iron_door"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "craft_lantern": {
+      "trigger": "recipe_crafted",
+      "conditions": {
+        "recipe_id": "xekr:lazy/golden_carrot"
+      }
+    }
+  },
+  "rewards": {
+    "function": "xekr:lazy/golden_carrot",
+    "loot": ["xekr:lazy/gold_nugget_1"]
+  }
+}

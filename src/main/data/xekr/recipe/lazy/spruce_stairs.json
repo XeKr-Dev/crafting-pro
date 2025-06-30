@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wooden_stairs",
+  "key": {
+    "X": {
+      "tag": "minecraft:spruce_logs"
+    }
+  },
+  "pattern": ["X  ", "XX ", "XXX"],
+  "result": {
+    "count": 16,
+    "id": "minecraft:spruce_stairs"
+  }
+}

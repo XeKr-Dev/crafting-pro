@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "craft_bamboo_sign": {
+      "trigger": "recipe_crafted",
+      "conditions": {
+        "recipe_id": "xekr:lazy/bamboo_sign"
+      }
+    }
+  },
+  "rewards": {
+    "function": "xekr:lazy/bamboo_sign",
+    "loot": ["xekr:lazy/stick_2"]
+  }
+}

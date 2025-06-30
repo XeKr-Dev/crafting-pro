@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": { "item": "minecraft:gold_block" },
+    "K": { "item": "minecraft:redstone_block" }
+  },
+  "pattern": [" X ", "XKX", " X "],
+  "result": {
+    "count": 9,
+    "id": "minecraft:clock"
+  }
+}

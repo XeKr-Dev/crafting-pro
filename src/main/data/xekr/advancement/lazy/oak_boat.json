@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "craft_bamboo_sign": {
+      "trigger": "recipe_crafted",
+      "conditions": {
+        "recipe_id": "xekr:lazy/oak_boat"
+      }
+    }
+  },
+  "rewards": {
+    "function": "xekr:lazy/oak_boat",
+    "loot": ["xekr:lazy/oak_boat_3"]
+  }
+}

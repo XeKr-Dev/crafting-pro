@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "craft_bamboo_sign": {
+      "trigger": "recipe_crafted",
+      "conditions": {
+        "recipe_id": "xekr:lazy/acacia_boat"
+      }
+    }
+  },
+  "rewards": {
+    "function": "xekr:lazy/acacia_boat",
+    "loot": ["xekr:lazy/acacia_boat_3"]
+  }
+}

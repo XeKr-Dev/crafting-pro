@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "chest_boat",
+  "key": {
+    "X": { "item": "minecraft:mangrove_planks" },
+    "K": { "item": "minecraft:chest" }
+  },
+  "pattern": ["XKX", "XXX"],
+  "result": {
+    "id": "minecraft:mangrove_chest_boat"
+  }
+}

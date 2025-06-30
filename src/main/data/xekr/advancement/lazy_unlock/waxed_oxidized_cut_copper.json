@@ -1,0 +1,68 @@
+{
+  "criteria": {
+    "G": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:oxidized_cut_copper"
+          }
+        ]
+      }
+    },
+    "U": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:oxidized_cut_copper"
+          }
+        ]
+      }
+    },
+    "L": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:oxidized_cut_copper"
+          }
+        ]
+      }
+    },
+    "E": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:oxidized_cut_copper"
+          }
+        ]
+      }
+    },
+    "X": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:honeycomb_block"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "G",
+      "U",
+      "L",
+      "E",
+      "X"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "xekr:lazy/waxed_oxidized_cut_copper"
+    ]
+  }
+}

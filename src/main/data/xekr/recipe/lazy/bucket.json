@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": { "item": "minecraft:iron_block" }
+  },
+  "pattern": ["X X", " X "],
+  "result": {
+    "count": 9,
+    "id": "minecraft:bucket"
+  }
+}

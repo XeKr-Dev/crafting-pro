@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_fence_gate",
+  "key": {
+    "X": {
+      "tag": "minecraft:oak_logs"
+    }
+  },
+  "pattern": ["XXX", " X "],
+  "result": {
+    "count": 4,
+    "id": "minecraft:oak_fence_gate"
+  }
+}

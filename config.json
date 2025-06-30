@@ -1,0 +1,9 @@
+{
+  "pack_name": "lazy-crafting",
+  "author": "XeKr, Gugle",
+  "description": "懒人合成",
+  "version": "1.3.0",
+  "base_path": "./src",
+  "main_module": "main",
+  "version_modules": {}
+}

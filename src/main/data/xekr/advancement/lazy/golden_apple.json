@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "craft_lantern": {
+      "trigger": "recipe_crafted",
+      "conditions": {
+        "recipe_id": "xekr:lazy/golden_apple"
+      }
+    }
+  },
+  "rewards": {
+    "function": "xekr:lazy/golden_apple",
+    "loot": ["xekr:lazy/gold_ingot_1"]
+  }
+}
