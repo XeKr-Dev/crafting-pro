@@ -5,5 +5,7 @@
   "version": "1.3.0",
   "base_path": "./src",
   "main_module": "main",
+  "type": "data",
+  "suggested_version": "1.21.1",
   "version_modules": {}
 }
