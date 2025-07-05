@@ -1,0 +1,8 @@
+{
+  "set_name": "全部模块",
+  "description": "包含全部模块的合集",
+  "modules": [
+    "lazy_crafting",
+    "smallmap"
+  ]
+}
