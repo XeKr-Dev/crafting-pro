@@ -1,6 +1,6 @@
 {
     "module_name": "免跑图合成",
-    "description": "",
+    "description": "可以通过合成的方式复制一些不可再生的重要物品",
     "support_version": "*",
     "weight": 0,
     "breaks": []
