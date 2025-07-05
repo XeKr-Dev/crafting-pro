@@ -15,4 +15,5 @@
 ## smallmap | 免跑图合成
 
 > Some non-renewable important items can be replicated through crafting.
+
 > 可以通过合成的方式复制一些不可再生的重要物品
