@@ -1,0 +1,26 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XAX",
+    "XKX",
+    "XBX"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:end_crystal"
+    },
+    "B": {
+      "item": "minecraft:saddle"
+    },
+    "X": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "K": {
+      "item": "minecraft:elytra"
+    }
+  },
+  "result": {
+    "item": "minecraft:elytra",
+	"count":2
+  }
+}

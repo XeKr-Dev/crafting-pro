@@ -1,0 +1,7 @@
+{
+    "module_name": "免跑图合成",
+    "description": "",
+    "support_version": "*",
+    "weight": 0,
+    "breaks": []
+}

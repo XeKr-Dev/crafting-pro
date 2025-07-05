@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XEK"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:note_block"
+    },
+    "E": {
+      "item": "minecraft:big_dripleaf"
+    },
+    "K": {
+      "item": "minecraft:observer"
+    }
+  },
+  "result": {
+    "item": "minecraft:sculk_sensor"
+  }
+}

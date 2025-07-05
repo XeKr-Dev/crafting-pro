@@ -1,0 +1,7 @@
+{
+    "module_name": "懒人合成",
+    "description": "跳过多步骤合成，一步到位，数量经过精确计算，用可堆叠的原料代替不可堆叠的原料让合成速度更高",
+    "support_version": "*",
+    "weight": 0,
+    "breaks": []
+}
