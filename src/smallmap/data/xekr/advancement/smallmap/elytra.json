@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "craft_bamboo_sign": {
+      "trigger": "recipe_crafted",
+      "conditions": {
+        "recipe_id": "xekr:smallmap/elytra"
+      }
+    }
+  },
+  "rewards": {
+    "function": "xekr:smallmap/acacia_boat",
+    "loot": ["xekr:smallmap/elytra"]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "G": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:rabbit_hide"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "G"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "xekr:smallmap/bundle"
+    ]
+  }
+}

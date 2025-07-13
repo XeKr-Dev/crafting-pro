@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "G": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:big_dripleaf"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "G"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "xekr:smallmap/sculk_sensor"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "G": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:string"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "G"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "xekr:smallmap/cobweb"
+    ]
+  }
+}
