@@ -8,7 +8,7 @@
     }
   },
   "rewards": {
-    "function": "xekr:smallmap/acacia_boat",
+    "function": "xekr:smallmap/elytra",
     "loot": ["xekr:smallmap/elytra"]
   }
 }
