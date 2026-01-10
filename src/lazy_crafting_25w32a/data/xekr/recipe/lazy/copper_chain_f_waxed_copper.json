@@ -4,10 +4,10 @@
   "group": "wooden_trapdoor",
   "key": {
     "X": {
-      "tag": "minecraft:copper_ingot"
+      "item": "minecraft:copper_ingot"
     },
     "K": {
-      "tag": "minecraft:waxed_copper_block"
+      "item": "minecraft:waxed_copper_block"
     }
   },
   "pattern": ["X", "K", "X"],
