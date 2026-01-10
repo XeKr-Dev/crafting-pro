@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_trapdoor",
+  "key": {
+    "X": {
+      "tag": "minecraft:copper_ingot"
+    },
+    "K": {
+      "tag": "minecraft:waxed_copper_block"
+    }
+  },
+  "pattern": ["X", "K", "X"],
+  "result": {
+    "count": 9,
+    "id": "minecraft:copper_chain"
+  }
+}

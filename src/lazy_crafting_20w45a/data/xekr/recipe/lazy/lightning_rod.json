@@ -1,9 +1,11 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
-  "group": "lightning_rod",
+  "group": "wooden_trapdoor",
   "key": {
-    "X": { "item": "minecraft:copper_block" }
+    "X": {
+      "tag": "minecraft:copper_block"
+    }
   },
   "pattern": ["X", "X", "X"],
   "result": {

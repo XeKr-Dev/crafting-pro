@@ -9,5 +9,38 @@
   "type": "data",
   "file_mode": true,
   "suggested_version": "1.21.1",
-  "version_modules": {}
+  "version_modules": {
+    "lazy_crafting_20w09a": {
+      "version": "20w09a",
+      "target": "lazy_crafting"
+    },
+    "lazy_crafting_20w16a": {
+      "version": "20w16a",
+      "target": "lazy_crafting"
+    },
+    "lazy_crafting_20w45a": {
+      "version": "20w45a",
+      "target": "lazy_crafting"
+    },
+    "lazy_crafting_22w11a": {
+      "version": "22w11a",
+      "target": "lazy_crafting"
+    },
+    "lazy_crafting_22w45a": {
+      "version": "22w45a",
+      "target": "lazy_crafting"
+    },
+    "lazy_crafting_23w07a": {
+      "version": "23w07a",
+      "target": "lazy_crafting"
+    },
+    "lazy_crafting_24w40a": {
+      "version": "24w40a",
+      "target": "lazy_crafting"
+    },
+    "lazy_crafting_25w32a": {
+      "version": "25w32a",
+      "target": "lazy_crafting"
+    }
+  }
 }

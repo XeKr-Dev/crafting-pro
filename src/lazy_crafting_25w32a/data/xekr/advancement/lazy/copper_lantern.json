@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "craft_bamboo_sign": {
+      "trigger": "recipe_crafted",
+      "conditions": {
+        "recipe_id": "xekr:lazy/copper_lantern"
+      }
+    }
+  },
+  "rewards": {
+    "function": "xekr:lazy/copper_lantern",
+    "loot": ["xekr:lazy/copper_nugget_4"]
+  }
+}

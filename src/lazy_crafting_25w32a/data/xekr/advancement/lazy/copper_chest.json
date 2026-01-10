@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "craft_bamboo_sign": {
+      "trigger": "recipe_crafted",
+      "conditions": {
+        "recipe_id": "xekr:lazy/copper_chest"
+      }
+    }
+  },
+  "rewards": {
+    "function": "xekr:lazy/copper_chest",
+    "loot": ["xekr:lazy/copper_ingot_4"]
+  }
+}

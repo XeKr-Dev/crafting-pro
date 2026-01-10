@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "copper_lantern",
+  "ingredients": [
+    {
+      "item": "minecraft:copper_block"
+    },
+    {
+      "item": "minecraft:copper_torch"
+    },
+    {
+      "item": "minecraft:copper_torch"
+    },
+    {
+      "item": "minecraft:copper_torch"
+    },
+    {
+      "item": "minecraft:copper_torch"
+    },
+    {
+      "item": "minecraft:copper_torch"
+    },
+    {
+      "item": "minecraft:copper_torch"
+    },
+    {
+      "item": "minecraft:copper_torch"
+    },
+    {
+      "item": "minecraft:copper_torch"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:copper_lantern"
+  }
+}
